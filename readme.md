@@ -71,7 +71,7 @@ There is a `petclinic.css` in `src/main/resources/static/resources/css`. It was 
 
 ## Working with Petclinic in your IDE
 
-### Prerequisites
+### Prerequisites required
 The following items should be installed in your system:
 * Java 17 or newer (full JDK, not a JRE).
 * [git command line tool](https://help.github.com/articles/set-up-git)
